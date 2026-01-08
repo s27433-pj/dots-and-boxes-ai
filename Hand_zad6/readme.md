@@ -8,7 +8,7 @@ Gesty są rozpoznawane na podstawie liczby wyprostowanych palców (bez kciuka).
 
 ---
 
-##  Demo wideo
+##  Gif
 
 
 ![Demo działania aplikacji](hand_loop.gif)
